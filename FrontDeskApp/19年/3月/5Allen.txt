@@ -1,0 +1,11 @@
+Allen (3-5-19) (5-10)
+Gatorade              		$2.5    	3      	$7.5    		cash	purchase by Allen
+PL-Liu(15:00-16:00)(Allen)     	$120.0   	1      	$120.0   		card	
+(Allen Liu)Pass#123           	$120.0   	1      	$120.0   		check#111
+Allen (3-5-19) (5-10)
+
+Cash:	$7.5
+Card:	$120.0
+Check:	$120.0
+Total:	$247.5
+Allen (3-5-19) (5-10)
