@@ -1,6 +1,6 @@
 # Frontdesk-App
 This is an application developed using Java by me and my partner.
-Since this app is made for my colleagues and manager, and most of them only Chinese, the text in this app is mostly Chinese. But I will be explaining what each part does.
+Since this app is made for my colleagues and manager, and most of them only uses Chinese, the text in this app is mostly Chinese. But I will be explaining what each part does.
 The app can keep track of money transactions, membership, and monthly-pass cards and it will automatically delete the files that are no longer needed. 
 The app will start from the login screen, which allows the cashier to enter the infromation for their shift:
 <img width="797" alt="initial" src="https://user-images.githubusercontent.com/26106407/171621193-a979cc12-6061-4c03-b0dd-e68280fef6db.png">
